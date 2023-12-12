@@ -30,7 +30,7 @@ Le projet a été développé en utilisant React.js et Firebase.
    git clone https://github.com/votre-utilisateur/marvel-quiz.git
 3. Clonez ce référentiel :
    
-    ```cd marvel-quiz```
+    ```cd marvel-quiz
 
 4. Installez les dépendances :
    
