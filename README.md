@@ -1,37 +1,40 @@
-# Marvel-Quiz
+# Marvel Quiz
 
-Marvel-Quiz is a small React JS application for beginners. It is part of a large Youtube training videos series at [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
+Bienvenue sur le Marvel Quiz ! Testez vos connaissances sur les personnages de l'univers Marvel.
 
-## Getting Started
+Le projet a été développé en utilisant React.js et Firebase.
 
-To get started, you can clone the project or download it to your machine. There you will find the App.css file as well as some images that you can use in your application (Only for training purpose). II also recorded many videos to show you how to code the whole application step by step. All the videos are available on my Youtube channel at [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
-Don't forget to subscribe, Like and share the videos.
+## Live Demo
 
-### Prerequisites
+[Marvel Quiz Live Demo](https://marvel-quiz-89272.web.app/)
 
-* HTML / css
-* JavaScript (ES6 +)
-* React JS basics (Check the 2 links below)
-* [Formation REACT JS pour Débutants](https://www.youtube.com/playlist?list=PLmYBIzXGbEzLhBgbGa7ucqGJr5RgmzjWr)
-* [React HOOKS](https://www.youtube.com/playlist?list=PLmYBIzXGbEzIAGkcwOcIW4rHHvp2SlU5s)
+## Fonctionnalités
 
-## Project resources & dependencies
+- Quiz interactif sur les personnages de Marvel.
+- Utilisation de Firebase pour stocker les questions et les réponses.
+- Suivi du score des utilisateurs.
+- Interface utilisateur conviviale.
 
-* [Visual Studio Code](https://code.visualstudio.com/) - My favorite Source-code editor
-* [Google Chrome](https://www.google.com/chrome/) - My favorite web browser
-* [React JS](https://fr.reactjs.org/docs/getting-started.html) - The JavaScript framework used
-* [NPM](https://www.npmjs.com/) - The package manager
-* [create React App](https://github.com/facebook/create-react-app) - Create React apps with no build configuration
-* [Firebase](https://firebase.google.com/docs) - Authentication, databases and hosting
-* [Marvel API](https://developer.marvel.com/) - The world's greatest comics API
-* [Iconfinder](https://www.iconfinder.com/) - The search engine for icons
-* [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js
-* [React Icons](https://www.npmjs.com/package/react-icons) - Popular icons in one package
-* [React Router Dom](https://www.npmjs.com/package/react-router-dom) - DOM bindings for React Router
-* [React Stepper Horizontal](https://www.npmjs.com/package/stepper-horizontal) - Well-designed stepper component for react
-* [React Toastify](https://www.npmjs.com/package/stepper-horizontal) - Easy and customizable notifications
-* [React Tooltip](https://www.npmjs.com/package/react-tooltip) - Easy and customizable tooltips
+## Technologies Utilisées
 
-## Youtube channel
+- React.js
+- Firebase (Firestore pour la base de données)
+- HTML5 / CSS3
+- JavaScript (ES6+)
 
-* [Donkey Geek](https://www.youtube.com/c/DonkeyGeek)
+## Comment exécuter le projet localement
+
+1. Clonez ce référentiel :
+   ```bash
+   git clone https://github.com/votre-utilisateur/marvel-quiz.git
+2. Clonez ce référentiel :
+    cd marvel-quiz
+
+3. Installez les dépendances :
+     npm install
+
+5. Lancez l'application en mode développement :
+
+     npm start
+6. Ouvrez votre navigateur :
+      Accédez à http://localhost:3000 pour voir l'application en action.
