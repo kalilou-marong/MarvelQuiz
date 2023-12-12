@@ -25,16 +25,20 @@ Le projet a été développé en utilisant React.js et Firebase.
 ## Comment exécuter le projet localement
 
 1. Clonez ce référentiel :
+   
    ```bash
    git clone https://github.com/votre-utilisateur/marvel-quiz.git
-2. Clonez ce référentiel :
+3. Clonez ce référentiel :
+   
     cd marvel-quiz
 
-3. Installez les dépendances :
+4. Installez les dépendances :
+   
      npm install
 
 5. Lancez l'application en mode développement :
 
      npm start
 6. Ouvrez votre navigateur :
+   
       Accédez à http://localhost:3000 pour voir l'application en action.
